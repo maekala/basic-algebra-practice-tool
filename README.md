@@ -103,6 +103,6 @@ basic-algebra-practice-tool/
 
 ## Project Status
 
-🚧 Early Development
+Currently in early development
 
 Current focus: Project architecture, question generation framework, and initial Streamlit prototype.
